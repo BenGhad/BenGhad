@@ -7,17 +7,19 @@ Work Experience:
 - Ex founding SWE / Tech lead at non tech startup
 
 Publications:
-- 67 ways to do something with Equivalence Graphs and the phase ordering problem (Coming soon to a COMP 400 near you!)  
+- 67 ways to do something with Equivalence Graphs and the phase ordering problem (Coming soon to a COMP 400 near you!)
+- Shameless self promo of study guides
 
 Academics/Campus:
 - McGill Honors CS, dual minor in stats + math (maybe)
 - Exec for Claude @ McGill, McGill CS undergrad society(CSUS), McGill AI Society(MAIS)
+- Undergraduate TA - (COMP 206 | 250 | 273 | 302)*
 
 Awesome Classes I've taken:
 - COMP 520 Compiler Design
 - COMP 551 Applied ML
 - COMP 595 Topics in CS(Competitive Programming)
-- (insert the other 6-7 grad classes) 
+- (insert the other 6-7 grad classes once finalized) 
 
 Languages/Frameworks I can write production ready code in:
 - Python/Python3
