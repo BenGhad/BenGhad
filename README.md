@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Todo make this look nice and formal but i have at least a week so no rush
+Todo make this look nice and formal but i have at least ~~a week~~ 3 weeks so no rush
 Todo be born 20 years earlier and do a myspace page instead and probably invest in bitcoin or something
 
 Work Experience:
