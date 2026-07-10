@@ -60,7 +60,7 @@ Languages/Frameworks I can write production ready code in:
 - Scikit / Pytorch (do non trivial ML - hackathons don't count, 551 sadly doesn't either)
 - Egg (compiler)**
 - LLVM (compiler)**
-- Ocaml (intern at jane street 🤞)**
+- Ocaml (67 quant @ jane street 🤞)**
 
 <!--
 **BenGhad/BenGhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
