@@ -26,19 +26,16 @@ Awesome Classes I've taken and you should maybe take but no particular order yet
 - 362 honors algoirthm design design 
 - 350 honors discrete math(Graph theory)
 - COMP 595 Topics in CS - Competitive Programming, I'd link my codeforces but I keep sleeping in on sundays so here's my [leetcode](https://leetcode.com/u/BeepBeen/)
-- COMP/MATH 562 Theory of ML OR COMP 553 algo game theory **
+- COMP 553 algo game theory **
 - COMP 302 Programming Lang & Paradigms
-- COMP 531 Advanced Theory of computation**
 - COMP 400 Project in CS**
 - COMP 579 Reinforcement Learning unless this turns out to be a industry class **
+- MATH 758 Topics in Discrete Math - Computational Social Choice
 
 ** Industry **
 - COMP 520 Compiler Design (link to beenssecondcompiler wiki)
 - COMP 551 Applied ML (link to kaggle comp?)
 - COMP 579 Reinforcement Learning unless this turns out to be a theory class **
-- COMP 535 Networks OR COMP 512 Distributed Systems **
-- COMP 513 Advanced Computer systems**
-- COMP 550 NLP**
 
 Languages/Frameworks I can write production ready code in:
 - Python/Python3
