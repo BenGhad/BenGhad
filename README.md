@@ -4,7 +4,6 @@ Todo make this look nice and formal
 Todo be born 20 years earlier and do a myspace page instead and probably invest in bitcoin or something
 
 Work Experience:
-- {insert fall26 here} 
 - Research Software Engineer intern at Voloridge 
 - founding SWE / Tech lead at non tech startup
 
