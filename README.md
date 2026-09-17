@@ -13,7 +13,7 @@ Publications(WIP):
 - Shameless self promo of my 206 & 302 study guides
 
 Academics/Campus:
-- McGill B.S + M.S CS 
+- McGill B.S in Honours Computer Science
 - Club execs:
   - Technical Director for [Claude @ McGill](https://github.com/CBC-Mcgill/),
   - VP Helpdesk for [McGill CS undergrad society](https://mcgillcsus.com/services/helpdesk)
