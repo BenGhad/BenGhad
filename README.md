@@ -15,9 +15,9 @@ Publications(WIP):
 Academics/Campus:
 - McGill B.S + M.S CS 
 - Club execs:
-  - Technical Director for Claude @ McGill(Link to CBC github),
-  - VP Helpdesk for McGill CS undergrad society(link to CSUS website?),
-  - McGill AI Society(link to MAIS website, OR my lectures)
+  - Technical Director for [Claude @ McGill](https://github.com/CBC-Mcgill/),
+  - VP Helpdesk for [McGill CS undergrad society](https://mcgillcsus.com/services/helpdesk)
+  - Lecturer for [McGill AI Society](https://mcgillai.com/mais202)
 - TEAM Mentor for COMP 321 (Programming Challenges)
 - TEAM Mentor for COMP 251 (Algorithms and Data Structures)
 
