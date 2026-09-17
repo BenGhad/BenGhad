@@ -17,7 +17,9 @@ Academics/Campus:
 - Club execs:
   - Technical Director for [Claude @ McGill](https://github.com/CBC-Mcgill/),
   - VP Helpdesk for [McGill CS undergrad society](https://mcgillcsus.com/services/helpdesk)
+    - My Office Hours are on Wednesdays, at 12:00-1:00 and 4:00-5:00 in TR1060
   - Lecturer for [McGill AI Society](https://mcgillai.com/mais202)
+    - Lectures are on Wednesdays at 6:00-8:00 in {redacted}
 - TEAM Mentor for COMP 321 (Programming Challenges)
 - TEAM Mentor for COMP 251 (Algorithms and Data Structures)
 
