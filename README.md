@@ -4,7 +4,7 @@ Todo make this look nice and formal
 Todo be born 20 years earlier and do a myspace page instead and probably invest in bitcoin or something
 
 Work Experience:
-- Incoming @ Either Capital One or IMC trading
+- Incoming @ {Capital One, Interactive Brokers, IMC Trading, Stevens Capital Management} <--- Deadline is october to make my decision
 - Research Software Engineer intern at Voloridge 
 - founding SWE / Tech lead at non tech startup
 
