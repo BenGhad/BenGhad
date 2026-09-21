@@ -5,8 +5,8 @@ Todo be born 20 years earlier and do a myspace page instead and probably invest 
 
 Work Experience:
 - (In process) Incoming @ IMC Trading Fall 2027
-- Incoming @ Capital One Summer 2027
-- Research Software Engineer intern at Voloridge 
+- Incoming Software Engineer Intern(TIP) @ Capital One Summer 2027
+- Research Software Engineer Intern at Voloridge 
 - founding SWE / Tech lead at non tech startup
 
 Publications(WIP):
