@@ -11,6 +11,7 @@ Work Experience:
 
 Publications(WIP):
 - 67 ways to do something with Equivalence Graphs and MLIR (don't @ me I don't have a good name yet)
+  - Dialect Agnostic Equality Saturation engine implemented directly into MLIR 
 - Shameless self promo of my 206 & 302 study guides
 
 Academics/Campus:
