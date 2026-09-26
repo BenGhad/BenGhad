@@ -4,7 +4,6 @@ Todo make this look nice and formal
 Todo be born 20 years earlier and do a myspace page instead and probably invest in bitcoin or something
 
 Work Experience:
-- (In process) Incoming @ IMC Trading Fall 2027
 - Incoming Software Engineer Intern(TIP) @ Capital One Summer 2027
 - Research Software Engineer Intern at Voloridge 
 - founding SWE / Tech lead at non tech startup
