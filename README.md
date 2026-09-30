@@ -12,8 +12,8 @@ Work Experience:
 - founding SWE / Tech lead at non tech startup
 
 Publications(WIP):
-- 67 ways to do something with Equivalence Graphs and MLIR (don't @ me I don't have a good name yet)
-  - Dialect Agnostic Equality Saturation engine implemented directly into MLIR 
+- 67 ways to do something with Equivalence Graphs and MLIR (Official Name TBA)
+  - Dialect Agnostic Equality Saturation(EqSat) directly into MLIR
 - Shameless self promo of my 206 & 302 study guides
 
 Academics/Campus:
@@ -21,7 +21,7 @@ Academics/Campus:
 - Club execs:
   - Technical Director for [Claude @ McGill](https://github.com/CBC-Mcgill/),
   - VP Helpdesk for [McGill CS undergrad society](https://mcgillcsus.com/services/helpdesk)
-    - My Office Hours are on Wednesdays, at 12:00-1:00 and 4:00-5:00 in TR1060
+    - My Office Hours are on Wednesdays, at 4:00-5:00 in TR1060
   - Lecturer for [McGill AI Society](https://mcgillai.com/mais202)
     - Lectures are on Wednesdays at 6:00-8:00 in {redacted}
 - TEAM Mentor for COMP 321 (Programming Challenges)
@@ -48,26 +48,22 @@ Awesome Classes I've taken and you should maybe take but no particular order yet
 Languages/Frameworks I can write production ready code in:
 - Python/Python3
 - Java/Scala
-- C/C++ (I'm aware there's a difference)
+- C/C++ (I'm aware there is a difference)
 - Dart/Flutter
 - FastAPI
 - Django(and PostgreSQL by extension)
 - Pandas, Polars, Numpy, Numba
+- Scikit/Pytorch
 - MLIR/LLVM
-- 
-
 
 
 (add these to list when track record)
 ** is maybe otherwise it's gonna happen 
-- Rust(kafka and redis thingy)
+- Rust(finish implementing kafak/redis in rust)
 - PostgresQL/SQLite/SQL stuff in general (deep dive on implementation)
 - Docker(Dev containers / RSWE)**
-- Scikit / Pytorch (do non trivial ML - hackathons don't count, 551 sadly doesn't either)
 - Egg (compiler)**
-- LLVM (compiler)**
-- Ocaml (intern at jane street 🤞)**
-- Ocaml (67 quant @ jane street 🤞)**
+
 
 <!--
 **BenGhad/BenGhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
