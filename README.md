@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 Todo make this look nice and formal 
+
 Todo be born 20 years earlier and do a myspace page instead and probably invest in bitcoin or something
+
 If you're doing anything involving undergraduate CS at McGill, you've probably heard of me
 
 Work Experience:
