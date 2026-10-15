@@ -7,7 +7,7 @@ Todo be born 20 years earlier and do a myspace page instead and probably invest 
 If you're doing anything involving undergraduate CS at McGill, you've probably heard of me
 
 Work Experience:
-- (Potentially) Incoming @ one of {IMC Trading, Two Sigma, Tiktok, Doordash, Verition Fund Management}
+- (Potentially) Incoming @ one of {IMC Trading, Two Sigma, Doordash, Verition Fund Management}
 - Incoming Software Engineer Intern(TIP) @ Capital One Summer 2027
 - Research Software Engineer Intern at Voloridge 
 - founding SWE / Tech lead at non tech startup
